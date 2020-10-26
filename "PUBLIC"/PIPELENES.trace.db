@@ -1,0 +1,3 @@
+2020-10-25 15:13:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PIPELINES" not found; SQL statement:
+SELECT DESTINATION4 FROM "PUBLIC".PIPELINES WHERE STARTPOINT = '1'; [42102-200]
